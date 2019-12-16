@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TourFrame</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="Create">"Create Trip"</string>
+    <string name="Edit">"Edit Trip"</string>
+    <string name="Start">"Start Trip"</string>
+    <string name="Search">"Search"</string>
+    <string name="StartChoice">"Ready to head out ?"</string>
+    <string name="StartfromLoad">"Can't wait,\n Let's go!!"</string>
+    <string name="Destination">"Where do we begin ?"</string>
+    <string name="DestinationChoice">"Let's Start here!"</string>
+    <string name="DestinationChange">"I'd rather go here ...</string>
+    <string name="Stops">"Anywhere we should visit ?"</string>
+    <string name="StopChoice">"Lets go here too!"</string>
+    <string name="StopAdd">"Add this to the list!"</string>
+
+</resources>
